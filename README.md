@@ -1,6 +1,4 @@
-<center> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=45&pause=1000&color=F7F7F7&center=true&width=1000&height=70&lines=Hussain;Full-Stack+Developer;Pen-tester;Entrepreneur" alt="Typing SVG" /></a>
-</center>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain;Full-Stack+Developer;C/C%2B%2B/C%23;Javascript;Next.js;Python;Pen-tester"/>
 
 <p align="center">
     <a href="https://github.com/search?q=user%3Adarkwebjedi+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
