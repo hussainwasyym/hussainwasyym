@@ -11,4 +11,4 @@
     <a href="https://github.com/search?q=user%3Adarkwebjedi+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hussainawasyym)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hussainawasyym)](https://github.com/ashutosh007/github-readme-activity-graph)
