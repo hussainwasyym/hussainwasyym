@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain;Full-Stack+Developer;C/C%2B%2B/C%23;Javascript;Next.js;Python;Pen-tester"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain W.;Full-Stack+Developer;C/C%2B%2B/C%23;Javascript;Next.js;Python;Pen-tester"/>
 
 <p align="center">
     <a href="https://github.com/search?q=user%3Adarkwebjedi+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
