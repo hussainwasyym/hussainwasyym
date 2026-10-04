@@ -2,8 +2,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainwasyym&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Hussain's Activity Graph" />
-
+<img src="https://ghchart.rshah.org/58A6FF/hussainwasyym" alt="Hussain's Activity Graph" />
 
 
 <p align="center">
