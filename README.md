@@ -1,8 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain%20W.;Full-Stack+Developer;C/C%2B%2B/C%23;Javascript;Next.js;Python;Pen-tester"/>
 
 
-[![Hussain's github activity graph](https://ghchart.rshah.org/58A6FF/hussainwasyym)](https://github.com/hussainwasyym)
-
 <p align="center">
     <a href="https://github.com/search?q=user%3Ahussainwasyym+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Ahussainwasyym+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
